@@ -1,0 +1,13 @@
+app_identifier "The bundle identifier of your app"
+username "Your Apple ID Username"
+team_name "The name of your App Store Connect team if you're in multiple teams"
+team_id "The ID of your App Store Connect team if you're in multiple teams"
+
+# negative_apple_sentiment(level: :skip)
+# curse_words(level: :warn)
+# future_functionality(level: :error)
+# other_platforms(level: :error)
+# placeholder_text(level: :error)
+# test_words(level: :error)
+# unreachable_urls(level: :error)
+custom_text(data: ["thunderbolt", "lightning", "frightening"], level: :warn)

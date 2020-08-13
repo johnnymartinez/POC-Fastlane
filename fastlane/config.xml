@@ -1,0 +1,31 @@
+<data>
+
+	<!-- Needed for shipping on android -->
+	<playconsolejsonkey>C:\folder\folder\nameofyourfile.json</playconsolejsonkey>
+	
+	<!--
+	The following configs are global, no need to edit them on different machines
+	-->
+ 	
+	<!--companyname>YourCompanyName</companyname-->
+	<!--keystorepassword>insertASafePassword123</keystorepassword-->
+
+	<appstoremail>admin@financialtown.com</appstoremail>
+	<testgroupname>External Testers</testgroupname>
+
+	<!--IOS TEST INFORMATION: feedback email + Beta app review information box. -->
+	<testersfeedbackemail>jmartinez@popio.com</testersfeedbackemail>
+	<testerscontactemail>jmartinez@popio.com</testerscontactemail>
+	<testerscontactfirstname>Johnny</testerscontactfirstname>
+	<testerscontactlastname>Martinez</testerscontactlastname>
+	<!--testerscontactphone>801-417-9000</testerscontactphone>
+	<testerstestnotes>Test video calls and document workflows.</testerstestnotes>
+
+	<!--Add mails separating with a comma: a@stuff.com,b@stuff.com -->
+	<testersmails>jmartinez@popio.com</testersmails>
+
+	<fastlaneappstoreconnectteamid>45907884</fastlaneappstoreconnectteamid>
+	<!--fastlanedevportalteamid>T3AM1DH3R3</fastlanedevportalteamid>
+	<!--fastlanecertsrepomail>jmartinez@popio.com</fastlanecertsrepomail-->
+	<!--fastlanecertsrepourl>https://github.com/Url/ios_certs.git</fastlanecertsrepourl-->
+</data>
